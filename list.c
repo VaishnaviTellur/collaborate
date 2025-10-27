@@ -15,4 +15,9 @@ int main()
     {
         printf("%s", arr[i]);
     }
+
+
+// debug the code and correct the error
+    
+    
 }
